@@ -7,6 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7636CDDE65E9F88C2F66085D /* Pods_ShikamiC_Assignment2Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 51F0E29F4D2E7EAEBFC02D6F /* Pods_ShikamiC_Assignment2Tests.framework */; };
+		C9322D513388B74A9931BB26 /* Pods_ShikamiC_Assignment2.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAC005C8998E073D5F163F3A /* Pods_ShikamiC_Assignment2.framework */; };
+		CE07F9951ED2D1B40006C013 /* RedLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9941ED2D1B40006C013 /* RedLineTableViewController.swift */; };
+		CE07F9991ED2D4BB0006C013 /* DestinationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9981ED2D4BB0006C013 /* DestinationTableViewController.swift */; };
+		CE07F99B1ED2D6230006C013 /* Brownline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F99A1ED2D6230006C013 /* Brownline.swift */; };
+		CE07F99D1ED2D7D00006C013 /* BrownLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F99C1ED2D7D00006C013 /* BrownLineTableViewController.swift */; };
+		CE07F99F1ED2E4B70006C013 /* Greenline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F99E1ED2E4B60006C013 /* Greenline.swift */; };
+		CE07F9A11ED2E62C0006C013 /* GreenLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9A01ED2E62C0006C013 /* GreenLineTableViewController.swift */; };
+		CE07F9A31ED2EA680006C013 /* Orangeline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9A21ED2EA680006C013 /* Orangeline.swift */; };
+		CE07F9A51ED2EB920006C013 /* OrangeLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9A41ED2EB920006C013 /* OrangeLineTableViewController.swift */; };
+		CE07F9A71ED2EF4D0006C013 /* Purpleline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9A61ED2EF4D0006C013 /* Purpleline.swift */; };
+		CE07F9A91ED2F0F10006C013 /* PurpleLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9A81ED2F0F10006C013 /* PurpleLineTableViewController.swift */; };
+		CE07F9AB1ED2F7FC0006C013 /* Pinkline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9AA1ED2F7FC0006C013 /* Pinkline.swift */; };
+		CE07F9AD1ED2F95B0006C013 /* PinkLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9AC1ED2F95B0006C013 /* PinkLineTableViewController.swift */; };
+		CE07F9AF1ED2FCEC0006C013 /* Yellowline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9AE1ED2FCEC0006C013 /* Yellowline.swift */; };
+		CE07F9B11ED2FDA80006C013 /* YellowLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE07F9B01ED2FDA80006C013 /* YellowLineTableViewController.swift */; };
+		CE0BA3111EC5255400716A7D /* Trains.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0BA3101EC5255400716A7D /* Trains.swift */; };
+		CE3C92DE1EC18B9800FCA4E8 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3C92DD1EC18B9800FCA4E8 /* TableViewController.swift */; };
+		CE3FCA431ECBFC6800C8EFED /* Redline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3FCA421ECBFC6800C8EFED /* Redline.swift */; };
+		CE3FCA471ECC061900C8EFED /* BlueLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3FCA461ECC061900C8EFED /* BlueLineTableViewController.swift */; };
+		CE3FCA491ECC067400C8EFED /* Blueline.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE3FCA481ECC067400C8EFED /* Blueline.swift */; };
 		CED119301EBFEDE100ABB7E2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1192F1EBFEDE100ABB7E2 /* AppDelegate.swift */; };
 		CED119321EBFEDE100ABB7E2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED119311EBFEDE100ABB7E2 /* ViewController.swift */; };
 		CED119351EBFEDE100ABB7E2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED119331EBFEDE100ABB7E2 /* Main.storyboard */; };
@@ -14,6 +35,7 @@
 		CED1193A1EBFEDE100ABB7E2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CED119381EBFEDE100ABB7E2 /* LaunchScreen.storyboard */; };
 		CED119451EBFEDE100ABB7E2 /* ShikamiC_Assignment2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED119441EBFEDE100ABB7E2 /* ShikamiC_Assignment2Tests.swift */; };
 		CED119501EBFEDE100ABB7E2 /* ShikamiC_Assignment2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CED1194F1EBFEDE100ABB7E2 /* ShikamiC_Assignment2UITests.swift */; };
+		E72FCE41C35DBDB9B5135088 /* Pods_ShikamiC_Assignment2UITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 276852D24D1E9296739DC851 /* Pods_ShikamiC_Assignment2UITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +56,34 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		276852D24D1E9296739DC851 /* Pods_ShikamiC_Assignment2UITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShikamiC_Assignment2UITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		27C3D02D2256D78AD07A1700 /* Pods-ShikamiC_Assignment2Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2Tests/Pods-ShikamiC_Assignment2Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		48D77EAB26F91F066C6DC840 /* Pods-ShikamiC_Assignment2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2/Pods-ShikamiC_Assignment2.release.xcconfig"; sourceTree = "<group>"; };
+		4DC55192146DDE4A0D24F49D /* Pods-ShikamiC_Assignment2UITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2UITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2UITests/Pods-ShikamiC_Assignment2UITests.release.xcconfig"; sourceTree = "<group>"; };
+		51F0E29F4D2E7EAEBFC02D6F /* Pods_ShikamiC_Assignment2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShikamiC_Assignment2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		797180D78BD2DA3102912D5A /* Pods-ShikamiC_Assignment2Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2Tests/Pods-ShikamiC_Assignment2Tests.release.xcconfig"; sourceTree = "<group>"; };
+		87A706DE0E196AD28EA53B20 /* Pods-ShikamiC_Assignment2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2/Pods-ShikamiC_Assignment2.debug.xcconfig"; sourceTree = "<group>"; };
+		AAC005C8998E073D5F163F3A /* Pods_ShikamiC_Assignment2.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ShikamiC_Assignment2.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B6DBB9D90E5EF53D1AB70562 /* Pods-ShikamiC_Assignment2UITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShikamiC_Assignment2UITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ShikamiC_Assignment2UITests/Pods-ShikamiC_Assignment2UITests.debug.xcconfig"; sourceTree = "<group>"; };
+		CE07F9941ED2D1B40006C013 /* RedLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F9981ED2D4BB0006C013 /* DestinationTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DestinationTableViewController.swift; sourceTree = "<group>"; };
+		CE07F99A1ED2D6230006C013 /* Brownline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Brownline.swift; sourceTree = "<group>"; };
+		CE07F99C1ED2D7D00006C013 /* BrownLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrownLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F99E1ED2E4B60006C013 /* Greenline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Greenline.swift; sourceTree = "<group>"; };
+		CE07F9A01ED2E62C0006C013 /* GreenLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GreenLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F9A21ED2EA680006C013 /* Orangeline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Orangeline.swift; sourceTree = "<group>"; };
+		CE07F9A41ED2EB920006C013 /* OrangeLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrangeLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F9A61ED2EF4D0006C013 /* Purpleline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Purpleline.swift; sourceTree = "<group>"; };
+		CE07F9A81ED2F0F10006C013 /* PurpleLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PurpleLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F9AA1ED2F7FC0006C013 /* Pinkline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Pinkline.swift; sourceTree = "<group>"; };
+		CE07F9AC1ED2F95B0006C013 /* PinkLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PinkLineTableViewController.swift; sourceTree = "<group>"; };
+		CE07F9AE1ED2FCEC0006C013 /* Yellowline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Yellowline.swift; sourceTree = "<group>"; };
+		CE07F9B01ED2FDA80006C013 /* YellowLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = YellowLineTableViewController.swift; sourceTree = "<group>"; };
+		CE0BA3101EC5255400716A7D /* Trains.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Trains.swift; sourceTree = "<group>"; };
+		CE3C92DD1EC18B9800FCA4E8 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewController.swift; path = ../TableViewController.swift; sourceTree = "<group>"; };
+		CE3FCA421ECBFC6800C8EFED /* Redline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Redline.swift; sourceTree = "<group>"; };
+		CE3FCA461ECC061900C8EFED /* BlueLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlueLineTableViewController.swift; sourceTree = "<group>"; };
+		CE3FCA481ECC067400C8EFED /* Blueline.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Blueline.swift; sourceTree = "<group>"; };
 		CED1192C1EBFEDE100ABB7E2 /* ShikamiC_Assignment2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ShikamiC_Assignment2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CED1192F1EBFEDE100ABB7E2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CED119311EBFEDE100ABB7E2 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -54,6 +104,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9322D513388B74A9931BB26 /* Pods_ShikamiC_Assignment2.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -61,6 +112,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7636CDDE65E9F88C2F66085D /* Pods_ShikamiC_Assignment2Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,12 +120,23 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E72FCE41C35DBDB9B5135088 /* Pods_ShikamiC_Assignment2UITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		827F5790CC460CBE3A6D0680 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AAC005C8998E073D5F163F3A /* Pods_ShikamiC_Assignment2.framework */,
+				51F0E29F4D2E7EAEBFC02D6F /* Pods_ShikamiC_Assignment2Tests.framework */,
+				276852D24D1E9296739DC851 /* Pods_ShikamiC_Assignment2UITests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		CED119231EBFEDE100ABB7E2 = {
 			isa = PBXGroup;
 			children = (
@@ -81,6 +144,8 @@
 				CED119431EBFEDE100ABB7E2 /* ShikamiC_Assignment2Tests */,
 				CED1194E1EBFEDE100ABB7E2 /* ShikamiC_Assignment2UITests */,
 				CED1192D1EBFEDE100ABB7E2 /* Products */,
+				D258793D2F94396C87F229F0 /* Pods */,
+				827F5790CC460CBE3A6D0680 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -98,8 +163,27 @@
 			isa = PBXGroup;
 			children = (
 				CED1192F1EBFEDE100ABB7E2 /* AppDelegate.swift */,
+				CE3C92DD1EC18B9800FCA4E8 /* TableViewController.swift */,
+				CE07F9941ED2D1B40006C013 /* RedLineTableViewController.swift */,
+				CE3FCA461ECC061900C8EFED /* BlueLineTableViewController.swift */,
+				CE07F99C1ED2D7D00006C013 /* BrownLineTableViewController.swift */,
+				CE07F9A01ED2E62C0006C013 /* GreenLineTableViewController.swift */,
+				CE07F9A41ED2EB920006C013 /* OrangeLineTableViewController.swift */,
+				CE07F9A81ED2F0F10006C013 /* PurpleLineTableViewController.swift */,
+				CE07F9AC1ED2F95B0006C013 /* PinkLineTableViewController.swift */,
+				CE07F9B01ED2FDA80006C013 /* YellowLineTableViewController.swift */,
+				CE07F9981ED2D4BB0006C013 /* DestinationTableViewController.swift */,
+				CE3FCA421ECBFC6800C8EFED /* Redline.swift */,
+				CE3FCA481ECC067400C8EFED /* Blueline.swift */,
+				CE07F99A1ED2D6230006C013 /* Brownline.swift */,
+				CE07F99E1ED2E4B60006C013 /* Greenline.swift */,
+				CE07F9A21ED2EA680006C013 /* Orangeline.swift */,
+				CE07F9A61ED2EF4D0006C013 /* Purpleline.swift */,
+				CE07F9AA1ED2F7FC0006C013 /* Pinkline.swift */,
+				CE07F9AE1ED2FCEC0006C013 /* Yellowline.swift */,
 				CED119311EBFEDE100ABB7E2 /* ViewController.swift */,
 				CED119331EBFEDE100ABB7E2 /* Main.storyboard */,
+				CE0BA3101EC5255400716A7D /* Trains.swift */,
 				CED119361EBFEDE100ABB7E2 /* Assets.xcassets */,
 				CED119381EBFEDE100ABB7E2 /* LaunchScreen.storyboard */,
 				CED1193B1EBFEDE100ABB7E2 /* Info.plist */,
@@ -125,6 +209,19 @@
 			path = ShikamiC_Assignment2UITests;
 			sourceTree = "<group>";
 		};
+		D258793D2F94396C87F229F0 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				87A706DE0E196AD28EA53B20 /* Pods-ShikamiC_Assignment2.debug.xcconfig */,
+				48D77EAB26F91F066C6DC840 /* Pods-ShikamiC_Assignment2.release.xcconfig */,
+				27C3D02D2256D78AD07A1700 /* Pods-ShikamiC_Assignment2Tests.debug.xcconfig */,
+				797180D78BD2DA3102912D5A /* Pods-ShikamiC_Assignment2Tests.release.xcconfig */,
+				B6DBB9D90E5EF53D1AB70562 /* Pods-ShikamiC_Assignment2UITests.debug.xcconfig */,
+				4DC55192146DDE4A0D24F49D /* Pods-ShikamiC_Assignment2UITests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -132,9 +229,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CED119541EBFEDE100ABB7E2 /* Build configuration list for PBXNativeTarget "ShikamiC_Assignment2" */;
 			buildPhases = (
+				4C824FDE1884D19116E644D4 /* [CP] Check Pods Manifest.lock */,
 				CED119281EBFEDE100ABB7E2 /* Sources */,
 				CED119291EBFEDE100ABB7E2 /* Frameworks */,
 				CED1192A1EBFEDE100ABB7E2 /* Resources */,
+				79FCE6AFAAD335A43D9ACF24 /* [CP] Embed Pods Frameworks */,
+				B1CAC76F092ED7CB4C1BBD92 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -149,9 +249,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CED119571EBFEDE100ABB7E2 /* Build configuration list for PBXNativeTarget "ShikamiC_Assignment2Tests" */;
 			buildPhases = (
+				E4F3E534F0A0BE83C4242691 /* [CP] Check Pods Manifest.lock */,
 				CED1193C1EBFEDE100ABB7E2 /* Sources */,
 				CED1193D1EBFEDE100ABB7E2 /* Frameworks */,
 				CED1193E1EBFEDE100ABB7E2 /* Resources */,
+				0016BFC779BEE120682CB761 /* [CP] Embed Pods Frameworks */,
+				54DB20FE03362EDCB9A45907 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -167,9 +270,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = CED1195A1EBFEDE100ABB7E2 /* Build configuration list for PBXNativeTarget "ShikamiC_Assignment2UITests" */;
 			buildPhases = (
+				8F1EF5422BF29B09EF2E48A4 /* [CP] Check Pods Manifest.lock */,
 				CED119471EBFEDE100ABB7E2 /* Sources */,
 				CED119481EBFEDE100ABB7E2 /* Frameworks */,
 				CED119491EBFEDE100ABB7E2 /* Resources */,
+				2049DF19E2CF475684582AC7 /* [CP] Embed Pods Frameworks */,
+				F51070653353346074B99260 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -193,7 +299,7 @@
 				TargetAttributes = {
 					CED1192B1EBFEDE100ABB7E2 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = FB2EQ755C5;
+						DevelopmentTeam = FCHT3KJ2A2;
 						ProvisioningStyle = Automatic;
 					};
 					CED1193F1EBFEDE100ABB7E2 = {
@@ -257,13 +363,170 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		0016BFC779BEE120682CB761 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2Tests/Pods-ShikamiC_Assignment2Tests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2049DF19E2CF475684582AC7 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2UITests/Pods-ShikamiC_Assignment2UITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		4C824FDE1884D19116E644D4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		54DB20FE03362EDCB9A45907 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2Tests/Pods-ShikamiC_Assignment2Tests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		79FCE6AFAAD335A43D9ACF24 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2/Pods-ShikamiC_Assignment2-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8F1EF5422BF29B09EF2E48A4 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		B1CAC76F092ED7CB4C1BBD92 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2/Pods-ShikamiC_Assignment2-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E4F3E534F0A0BE83C4242691 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		F51070653353346074B99260 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ShikamiC_Assignment2UITests/Pods-ShikamiC_Assignment2UITests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		CED119281EBFEDE100ABB7E2 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CE0BA3111EC5255400716A7D /* Trains.swift in Sources */,
+				CE3FCA491ECC067400C8EFED /* Blueline.swift in Sources */,
+				CE07F9A91ED2F0F10006C013 /* PurpleLineTableViewController.swift in Sources */,
+				CE07F9951ED2D1B40006C013 /* RedLineTableViewController.swift in Sources */,
+				CE3FCA471ECC061900C8EFED /* BlueLineTableViewController.swift in Sources */,
+				CE07F9A51ED2EB920006C013 /* OrangeLineTableViewController.swift in Sources */,
+				CE07F99F1ED2E4B70006C013 /* Greenline.swift in Sources */,
+				CE07F9AB1ED2F7FC0006C013 /* Pinkline.swift in Sources */,
+				CE07F9A11ED2E62C0006C013 /* GreenLineTableViewController.swift in Sources */,
 				CED119321EBFEDE100ABB7E2 /* ViewController.swift in Sources */,
+				CE07F9B11ED2FDA80006C013 /* YellowLineTableViewController.swift in Sources */,
+				CE07F9AD1ED2F95B0006C013 /* PinkLineTableViewController.swift in Sources */,
+				CE3C92DE1EC18B9800FCA4E8 /* TableViewController.swift in Sources */,
 				CED119301EBFEDE100ABB7E2 /* AppDelegate.swift in Sources */,
+				CE07F9991ED2D4BB0006C013 /* DestinationTableViewController.swift in Sources */,
+				CE07F9A71ED2EF4D0006C013 /* Purpleline.swift in Sources */,
+				CE07F99D1ED2D7D00006C013 /* BrownLineTableViewController.swift in Sources */,
+				CE07F99B1ED2D6230006C013 /* Brownline.swift in Sources */,
+				CE3FCA431ECBFC6800C8EFED /* Redline.swift in Sources */,
+				CE07F9A31ED2EA680006C013 /* Orangeline.swift in Sources */,
+				CE07F9AF1ED2FCEC0006C013 /* Yellowline.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -411,9 +674,10 @@
 		};
 		CED119551EBFEDE100ABB7E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 87A706DE0E196AD28EA53B20 /* Pods-ShikamiC_Assignment2.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FB2EQ755C5;
+				DEVELOPMENT_TEAM = FCHT3KJ2A2;
 				INFOPLIST_FILE = ShikamiC_Assignment2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.ShikamiC-Assignment2";
@@ -424,9 +688,10 @@
 		};
 		CED119561EBFEDE100ABB7E2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 48D77EAB26F91F066C6DC840 /* Pods-ShikamiC_Assignment2.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = FB2EQ755C5;
+				DEVELOPMENT_TEAM = FCHT3KJ2A2;
 				INFOPLIST_FILE = ShikamiC_Assignment2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.example.ShikamiC-Assignment2";
@@ -437,6 +702,7 @@
 		};
 		CED119581EBFEDE100ABB7E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 27C3D02D2256D78AD07A1700 /* Pods-ShikamiC_Assignment2Tests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -452,6 +718,7 @@
 		};
 		CED119591EBFEDE100ABB7E2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 797180D78BD2DA3102912D5A /* Pods-ShikamiC_Assignment2Tests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -467,6 +734,7 @@
 		};
 		CED1195B1EBFEDE100ABB7E2 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B6DBB9D90E5EF53D1AB70562 /* Pods-ShikamiC_Assignment2UITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = FB2EQ755C5;
@@ -481,6 +749,7 @@
 		};
 		CED1195C1EBFEDE100ABB7E2 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 4DC55192146DDE4A0D24F49D /* Pods-ShikamiC_Assignment2UITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				DEVELOPMENT_TEAM = FB2EQ755C5;
@@ -512,6 +781,7 @@
 				CED119561EBFEDE100ABB7E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CED119571EBFEDE100ABB7E2 /* Build configuration list for PBXNativeTarget "ShikamiC_Assignment2Tests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +790,7 @@
 				CED119591EBFEDE100ABB7E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CED1195A1EBFEDE100ABB7E2 /* Build configuration list for PBXNativeTarget "ShikamiC_Assignment2UITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +799,7 @@
 				CED1195C1EBFEDE100ABB7E2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

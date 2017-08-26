@@ -1,0 +1,6 @@
+framework module Pods_ShikamiC_Assignment2 {
+  umbrella header "Pods-ShikamiC_Assignment2-umbrella.h"
+
+  export *
+  module * { export * }
+}
